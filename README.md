@@ -6,5 +6,5 @@
 
 ## 内容
 
-[Part1-Deal-Sourcing](./notes/The private equity toolkit/Part1-Deal-Sourcing.md)
+[**Part1-Deal-Sourcing**](./notes/The private equity toolkit/Part1-Deal-Sourcing.md)
 
