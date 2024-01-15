@@ -1,9 +1,5 @@
 ## Part2 Deal Selection
 
-
-
-### 2.1负面清单筛选
-
 关于交易选择模型
 
 > 一些论文
@@ -15,6 +11,8 @@
 > *Walton, E. J. and Roberts, M. J. (1992). ***“Purchasing a Business: The Search Process”** in Sahlman, William A. and Stevenson, H. H. (eds). The Entrepreneurial Venture. Boston, MA: Harvard Business School Publications.*
 >
 > My own approach to deal selection was heavily influenced by **Bain Capital**'s then Head of Europe, **Dwight Poler** and **Professor Eli Talmor**
+
+### 2.1负面清单筛选
 
 
 
