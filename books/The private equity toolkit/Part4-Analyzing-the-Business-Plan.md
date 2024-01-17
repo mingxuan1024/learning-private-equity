@@ -13,8 +13,9 @@
 在拿到项目BP，分析完商业模式之后，你应该有底气说出下面这6句话：
 
 1. I understand the point of this company, I buy into its strategic narrative and I am convinced that its business needs to exist, now and in the future;
-2. I became somewhat of a desktop expert on the industry structure and competitive dynamics;我在某种程度上已经成为
-3. I can tell in my own words how the company makes money and understand the economics of its business model;
-4. I know what operational improvements and growth initiatives will be pursued and accomplished during my investment horizon under the ownership of my fund;
+2. I became somewhat of a desktop expert on the industry structure and competitive dynamics;我在某种程度上已经成为这个行业在行业结构和竞争动态上的专家了
+3. I can tell in my own words how the company makes money and understand the economics of its business model;我能用自己的话说出来这家公司是怎么赚钱的，理解它的商业模式
+4. I know what operational improvements and growth initiatives will be pursued and accomplished during my investment horizon under the ownership of my fund;我知道在投资这家公司后，怎样帮助它提升
 5. I have a solid operating model and a set of financial projections that I am prepared to underwrite as my investment base case. Furthermore, I produced sensitivity analyses to cover upside and downside scenarios; and
 6. I identified a list of key assumptions that need to be verified and validated during the due diligence process, assuming the deal goes ahead.
+
