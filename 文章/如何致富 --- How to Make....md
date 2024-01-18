@@ -22,13 +22,15 @@ Lots of people get rich knowing nothing more than that. You don't have to know p
 
 **The Proposition 提案**
 
-Economically, you can think of a startup as a way to compress your whole working life into a few years. Instead of working at a low intensity for forty years, you work as hard as you possibly can for four. This pays especially well in technology, where you earn a premium for working fast.
+**Economically, you can think of a startup as a way to compress your whole working life into a few years. Instead of working at a low intensity for forty years, you work as hard as you possibly can for four. This pays especially well in technology, where you earn a premium for working fast.**
 
-从经济角度来看，你可以将创业视为将你的整个工作生涯压缩为几年的一种方式。你不是低强度地工作四十年，而是尽可能努力地工作四年。这在技术领域的回报尤其丰厚，你可以因快速工作而获得溢价。
+**从经济角度来看，你可以将创业视为将你的整个工作生涯压缩为几年的一种方式。你不是低强度地工作四十年，而是尽可能努力地工作四年。这在技术领域的回报尤其丰厚，你可以因快速工作而获得溢价。**
 
-Here is a brief sketch of the economic proposition. If you're a good hacker in your mid twenties, you can get a job paying about $80,000 per year. So on average such a hacker must be able to do at least $80,000 worth of work per year for the company just to break even. You could probably work twice as many hours as a corporate employee, and if you focus you can probably get three times as much done in an hour.
+Here is a brief sketch of the economic proposition. If you're a good hacker in your mid twenties, you can get a job paying about \$80,000 per year. So on average such a hacker must be able to do at least $80,000 worth of work per year for the company just to break even. You could probably work twice as many hours as a corporate employee, and if you focus you can probably get three times as much done in an hour.
 
-\[1\] You should get another multiple of two, at least, by eliminating the drag of the pointy-haired middle manager who would be your boss in a big company. Then there is one more multiple: how much smarter are you than your job description expects you to be? Suppose another multiple of three. Combine all these multipliers, and I'm claiming you could be 36 times more productive than you're expected to be in a random corporate job. \[2\] If a fairly good hacker is worth $80,000 a year at a big company, then a smart hacker working very hard without any corporate bullshit to slow him down should be able to do work worth about $3 million a year.这是经济主张的简要概述。如果你是一名二十多岁的优秀黑客，你可以找到一份年薪约 80,000 美元的工作。因此，平均而言，这样的黑客每年必须能够为公司完成至少价值 80,000 美元的工作才能实现收支平衡。你的工作时间可能是公司员工的两倍，如果你集中注意力，你可能在一小时内完成三倍的工作。 \[1\] 你至少应该再获得两倍的收益，通过消除尖头发的中层经理的拖累，他将成为你在大公司的老板。然后还有一个倍数：你比你的工作描述所期望的你聪明多少？假设还有一个三的倍数。将所有这些乘数结合起来，我声称您的工作效率可能比您在随机公司工作中预期的工作效率高出 36 倍。 \[2\] 如果一个相当优秀的黑客在一家大公司每年价值 80,000 美元，那么一个聪明的黑客在没有任何公司废话拖慢他的速度的情况下努力工作，应该能够完成每年价值约 300 万美元的工作。
+\[1\] You should get another multiple of two, at least, by eliminating the drag of the pointy-haired middle manager who would be your boss in a big company. Then there is one more multiple: how much smarter are you than your job description expects you to be? Suppose another multiple of three. Combine all these multipliers, and I'm claiming you could be 36 times more productive than you're expected to be in a random corporate job. \[2\] If a fairly good hacker is worth  \$ 80,000 a year at a big company, then a smart hacker working very hard without any corporate bullshit to slow him down should be able to do work worth about $3 million a year. 
+
+这是经济主张的简要概述。如果你是一名二十多岁的优秀黑客，你可以找到一份年薪约 80,000 美元的工作。因此，平均而言，这样的黑客每年必须能够为公司完成至少价值 80,000 美元的工作才能实现收支平衡。你的工作时间可能是公司员工的两倍，如果你集中注意力，你可能在一小时内完成三倍的工作。 \[1\] 你至少应该再获得两倍的收益，通过消除尖头发的中层经理的拖累，他将成为你在大公司的老板。然后还有一个倍数：你比你的工作描述所期望的你聪明多少？假设还有一个三的倍数。将所有这些乘数结合起来，我声称您的工作效率可能比您在随机公司工作中预期的工作效率高出 36 倍。 \[2\] 如果一个相当优秀的黑客在一家大公司每年价值 80,000 美元，那么一个聪明的黑客在没有任何公司废话拖慢他的速度的情况下努力工作，应该能够完成每年价值约 300 万美元的工作。
 
 Like all back-of-the-envelope calculations, this one has a lot of wiggle room. I wouldn't try to defend the actual numbers. But I stand by the structure of the calculation. I'm not claiming the multiplier is precisely 36, but it is certainly more than 10, and probably rarely as high as 100.
 
@@ -64,9 +66,9 @@ If IBM hadn't made this mistake, Microsoft would still have been a successful co
 
 如果IBM没有犯这个错误，微软仍然会是一家成功的公司，但它不可能发展得这么大这么快。比尔·盖茨会很富有，但与其他同龄人相比，他在福布斯 400 强中排名接近垫底。
 
-There are a lot of ways to get rich, and this essay is about only one of them. This essay is about how to make money by creating wealth and getting paid for it. There are plenty of other ways to get money, including chance, speculation, marriage, inheritance, theft, extortion, fraud, monopoly, graft, lobbying, counterfeiting, and prospecting. Most of the greatest fortunes have probably involved several of these.
+**There are a lot of ways to get rich, and this essay is about only one of them. This essay is about how to make money by creating wealth and getting paid for it. There are plenty of other ways to get money, including chance, speculation, marriage, inheritance, theft, extortion, fraud, monopoly, graft, lobbying, counterfeiting, and prospecting. Most of the greatest fortunes have probably involved several of these.**
 
-致富的方法有很多，本文仅讨论其中一种。这篇文章是关于如何通过创造财富并获得报酬来赚钱。赚钱的方式还有很多，包括机会、投机、婚姻、继承、盗窃、勒索、欺诈、垄断、贪污、游说、伪造和探矿。大多数最大的财富可能都涉及其中的几个。
+**致富的方法有很多，本文仅讨论其中一种。这篇文章是关于如何通过创造财富并获得报酬来赚钱。赚钱的方式还有很多，包括机会、投机、婚姻、继承、盗窃、勒索、欺诈、垄断、贪污、游说、伪造和探矿。大多数最大的财富可能都涉及其中的几个。**
 
 The advantage of creating wealth, as a way to get rich, is not just that it's more legitimate (many of the other methods are now illegal) but that it's more _straightforward._ You just have to do something people want.
 
@@ -74,17 +76,17 @@ The advantage of creating wealth, as a way to get rich, is not just that it's mo
 
 **Money Is Not Wealth 金钱不是财富**
 
-If you want to create wealth, it will help to understand what it is. Wealth is not the same thing as money.
+If you want to create wealth, it will help to understand what it is. Wealth is not the same thing as money.\[3\] Wealth is as old as human history. Far older, in fact; ants have wealth. Money is a comparatively recent invention.
 
-\[3\] Wealth is as old as human history. Far older, in fact; ants have wealth. Money is a comparatively recent invention.如果你想创造财富，了解它是什么会有所帮助。财富与金钱不同。 \[3\] 财富与人类历史一样古老。事实上，他的年龄要大得多。蚂蚁有财富。货币是一项相对较新的发明。
+如果你想创造财富，了解它是什么会有所帮助。财富与金钱不同。 \[3\] 财富与人类历史一样古老。事实上，他的年龄要大得多。蚂蚁有财富。货币是一项相对较新的发明。
 
-Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money. If you had a magic machine that could on command make you a car or cook you dinner or do your laundry, or do anything else you wanted, you wouldn't need money. Whereas if you were in the middle of Antarctica, where there is nothing to buy, it wouldn't matter how much money you had.
+**Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money. If you had a magic machine that could on command make you a car or cook you dinner or do your laundry, or do anything else you wanted, you wouldn't need money. Whereas if you were in the middle of Antarctica, where there is nothing to buy, it wouldn't matter how much money you had.**
 
-财富是根本。财富是我们想要的东西：食物、衣服、房子、汽车、小玩意、去有趣的地方旅行等等。没有钱也可以拥有财富。如果你有一台神奇的机器，可以根据命令为你制造汽车、为你做饭、洗衣服或做任何你想做的事情，那么你就不需要钱了。但如果你在南极洲中部，那里没有东西可买，那么你有多少钱也无济于事。
+**财富是根本。财富是我们想要的东西：食物、衣服、房子、汽车、小玩意、去有趣的地方旅行等等。没有钱也可以拥有财富。如果你有一台神奇的机器，可以根据命令为你制造汽车、为你做饭、洗衣服或做任何你想做的事情，那么你就不需要钱了。但如果你在南极洲中部，那里没有东西可买，那么你有多少钱也无济于事。**
 
-Wealth is what you want, not money. But if wealth is the important thing, why does everyone talk about making money? It is a kind of shorthand: money is a way of moving wealth, and in practice they are usually interchangeable. But they are not the same thing, and unless you plan to get rich by counterfeiting, talking about _making money_ can make it harder to understand how to make money.
+**Wealth is what you want, not money. But if wealth is the important thing, why does everyone talk about making money? It is a kind of shorthand: money is a way of moving wealth, and in practice they are usually interchangeable. But they are not the same thing, and unless you plan to get rich by counterfeiting, talking about _making money_ can make it harder to understand how to make money.**
 
-你想要的是财富，而不是金钱。但如果财富才是最重要的，那为什么大家都在谈论赚钱呢？这是一种简写：金钱是转移财富的一种方式，在实践中它们通常是可以互换的。但它们不是一回事，除非你打算通过造假致富，否则谈论赚钱会让你更难理解如何赚钱。
+**你想要的是财富，而不是金钱。但如果财富才是最重要的，那为什么大家都在谈论赚钱呢？这是一种简写：金钱是转移财富的一种方式，在实践中它们通常是可以互换的。但它们不是一回事，除非你打算通过造假致富，否则谈论赚钱会让你更难理解如何赚钱。**
 
 Money is a side effect of specialization. In a specialized society, most of the things you need, you can't make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
 
@@ -98,13 +100,13 @@ The solution societies find, as they get more specialized, is to make the trade 
 
 随着社会变得更加专业化，他们发现的解决方案是将贸易分为两步。您不是直接用小提琴换取土豆，而是用小提琴换取白银，然后您可以再次用白银换取您需要的任何其他东西。中间物质——交换媒介——可以是任何稀有且便携的东西。从历史上看，金属是最常见的，但最近我们一直在使用一种称为美元的交换媒介，但它实际上并不存在。然而，它可以作为一种交换媒介，因为它的稀有性是由美国政府保证的。
 
-The advantage of a medium of exchange is that it makes trade work. The disadvantage is that it tends to obscure what trade really means. People think that what a business does is make money. But money is just the intermediate stage-- just a shorthand-- for whatever people want. What most businesses really do is make wealth. They do something people want.
+**The advantage of a medium of exchange is that it makes trade work. The disadvantage is that it tends to obscure what trade really means. People think that what a business does is make money. But money is just the intermediate stage-- just a shorthand-- for whatever people want. What most businesses really do is make wealth. They do something people want.**
 
-\[4\]交换媒介的优势在于它使贸易得以进行。缺点是它往往会掩盖贸易的真正含义。人们认为企业所做的就是赚钱。但金钱只是人们想要的任何东西的中间阶段——只是一个简写。大多数企业真正做的就是创造财富。他们做人们想要的事情。 \[4\]
+**交换媒介的优势在于它使贸易得以进行。缺点是它往往会掩盖贸易的真正含义。人们认为企业所做的就是赚钱。但金钱只是人们想要的任何东西的中间阶段——只是一个简写。大多数企业真正做的就是创造财富。他们做人们想要的事情。** 
 
 **The Pie Fallacy 馅饼谬误**
 
-A surprising number of people retain from childhood the idea that there is a fixed amount of wealth in the world. There is, in any normal family, a fixed amount of _money_ at any moment. But that's not the same thing.
+**A surprising number of people retain from childhood the idea that there is a fixed amount of wealth in the world.** There is, in any normal family, a fixed amount of _money_ at any moment. But that's not the same thing.
 
 数量惊人的人从小就保留着世界上财富是固定数量的观念。在任何正常的家庭中，任何时候都有固定数额的钱。但这不是一回事。
 
@@ -116,9 +118,9 @@ I can remember believing, as a child, that if a few rich people had all the mone
 
 我记得小时候我相信，如果少数富人拥有了所有的钱，那么留给其他人的钱就会更少。许多人似乎一直相信这样的事情直到成年。当你听到有人谈论 x% 的人口如何拥有 y% 的财富时，这种谬论通常就存在。如果你打算创办一家初创公司，那么无论你是否意识到，你都在计划反驳馅饼谬误。
 
-What leads people astray here is the abstraction of money. Money is not wealth. It's just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. _You can make more wealth._ Wealth has been getting created and destroyed (but on balance, created) for all of human history.
+**What leads people astray here is the abstraction of money. Money is not wealth. It's just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. _You can make more wealth._ Wealth has been getting created and destroyed (but on balance, created) for all of human history.**
 
-这里使人们误入歧途的是金钱的抽象。金钱不是财富。它只是我们用来转移财富的东西。因此，尽管在某些特定时刻（比如本月你的家人）可能有固定数量的资金可用于与其他人交易你想要的东西，但世界上并没有固定数量的财富。你可以创造更多的财富。在整个人类历史中，财富一直在被创造和毁灭（但总的来说，是被创造的）。
+**这里使人们误入歧途的是金钱的抽象。金钱不是财富。它只是我们用来转移财富的东西。因此，尽管在某些特定时刻（比如本月你的家人）可能有固定数量的资金可用于与其他人交易你想要的东西，但世界上并没有固定数量的财富。你可以创造更多的财富。在整个人类历史中，财富一直在被创造和毁灭（但总的来说，是被创造的）。**
 
 Suppose you own a beat-up old car. Instead of sitting on your butt next summer, you could spend the time restoring your car to pristine condition. In doing so you create wealth. The world is-- and you specifically are-- one pristine old car the richer. And not just in some metaphorical way. If you sell your car, you'll get more for it.
 
@@ -126,7 +128,7 @@ Suppose you own a beat-up old car. Instead of sitting on your butt next summer, 
 
 In restoring your old car you have made yourself richer. You haven't made anyone else poorer. So there is obviously not a fixed pie. And in fact, when you look at it this way, you wonder why anyone would think there was.
 
-\[5\]通过修复你的旧车，你让自己变得更加富有。你没有让其他人变得更穷。所以显然没有一个固定的馅饼。事实上，当你这样看时，你会想知道为什么有人会认为存在。 \[5\]
+通过修复你的旧车，你让自己变得更加富有。你没有让其他人变得更穷。所以显然没有一个固定的馅饼。事实上，当你这样看时，你会想知道为什么有人会认为存在。 
 
 Kids know, without knowing they know, that they can create wealth. If you need to give someone a present and don't have any money, you make one. But kids are so bad at making things that they consider home-made presents to be a distinct, inferior, sort of thing to store-bought ones-- a mere expression of the proverbial thought that counts. And indeed, the lumpy ashtrays we made for our parents did not have much of a resale market.
 
@@ -134,15 +136,15 @@ Kids know, without knowing they know, that they can create wealth. If you need t
 
 **Craftsmen 工匠**
 
-The people most likely to grasp that wealth can be created are the ones who are good at making things, the craftsmen. Their hand-made objects become store-bought ones. But with the rise of industrialization there are fewer and fewer craftsmen. One of the biggest remaining groups is computer programmers.
+**The people most likely to grasp that wealth can be created are the ones who are good at making things, the craftsmen. Their hand-made objects become store-bought ones. But with the rise of industrialization there are fewer and fewer craftsmen. One of the biggest remaining groups is computer programmers.**
 
-最有可能认识到财富是可以创造的人是那些善于制造东西的人，即工匠。他们的手工制品变成了商店里买的东西。但随着工业化的兴起，工匠越来越少。剩下的最大群体之一是计算机程序员。
+**最有可能认识到财富是可以创造的人是那些善于制造东西的人，即工匠。他们的手工制品变成了商店里买的东西。但随着工业化的兴起，工匠越来越少。剩下的最大群体之一是计算机程序员。**
 
 A programmer can sit down in front of a computer and _create wealth_. A good piece of software is, in itself, a valuable thing. There is no manufacturing to confuse the issue. Those characters you type are a complete, finished product. If someone sat down and wrote a web browser that didn't suck (a fine idea, by the way), the world would be that much richer.
 
 \[5b\]程序员可以坐在电脑前创造财富。一款好的软件本身就是一件有价值的事情。没有制造来混淆这个问题。您输入的这些字符是一个完整的成品。如果有人坐下来编写一个不那么糟糕的网络浏览器（顺便说一下，这是一个好主意），世界将会变得更加丰富。 \[5b\]
 
-Everyone in a company works together to create wealth, in the sense of making more things people want. Many of the employees (e.g. the people in the mailroom or the personnel department) work at one remove from the actual making of stuff. Not the programmers. They literally think the product, one line at a time. And so it's clearer to programmers that wealth is something that's made, rather than being distributed, like slices of a pie, by some imaginary Daddy.
+Everyone in a company works together to create wealth, in the sense of making more things people want. Many of the employees (e.g. the people in the mailroom or the personnel department) work at one remove from the actual making of stuff. Not the programmers. They literally think the product, one line at a time. And so it's clearer to programmers that **wealth is something that's made, rather than being distributed, like slices of a pie, by some imaginary Daddy.**
 
 公司中的每个人都共同努力创造财富，即制造更多人们想要的东西。许多员工（例如收发室或人事部门的人员）都远离实际的产品制作。不是程序员。他们从字面上理解产品，一次一行。因此，对于程序员来说，更清楚的是，财富是由某个想象中的爸爸创造出来的，而不是像馅饼一样被分配的。
 
@@ -150,7 +152,7 @@ It's also obvious to programmers that there are huge variations in the rate at w
 
 对于程序员来说，显而易见的是，财富创造的速度存在巨大差异。在 Viaweb，我们有一位程序员，他的生产力堪称怪物。我记得观察了他一整天的所作所为，估计他为公司的市值增加了数十万美元。一个出色的程序员可以在几周内创造价值一百万美元的财富。同一时期的平庸程序员将产生零财富甚至负财富（例如通过引入错误）。
 
-This is why so many of the best programmers are libertarians. In our world, you sink or swim, and there are no excuses. When those far removed from the creation of wealth-- undergraduates, reporters, politicians-- hear that the richest 5% of the people have half the total wealth, they tend to think _injustice!_ An experienced programmer would be more likely to think _is that all?_ The top 5% of programmers probably write 99% of the good software.
+This is why so many of the best programmers are libertarians. **In our world, you sink or swim**, and there are no excuses. When those far removed from the creation of wealth-- undergraduates, reporters, politicians-- hear that the richest 5% of the people have half the total wealth, they tend to think _injustice!_ An experienced programmer would be more likely to think _is that all?_ The top 5% of programmers probably write 99% of the good software.
 
 这就是为什么这么多最好的程序员都是自由主义者。在我们的世界里，你要么沉要么游，没有任何借口。当那些远离财富创造的人——大学生、记者、政客——听到最富有的5%的人拥有总财富的一半时，他们往往会认为不公平！经验丰富的程序员更有可能认为这就是全部了？前 5% 的程序员可能编写出 99% 的好软件。
 
